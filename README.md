@@ -18,7 +18,6 @@
 - 🌱 Exploring **IoT**, **computer vision**, and **AI multi-agent systems**
 - ⚡ Competitive programmer with **500+ problems solved** and a peak rating of **1308 on Codeforces**
 - 🎬 Won a filmmaking competition — yes, I do things outside of a terminal too
-- 🏆 Certificate of Achievement for a Python project
 
 ---
 
