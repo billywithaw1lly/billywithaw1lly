@@ -70,7 +70,7 @@
 | [Weather Station IoT](https://github.com/billywithaw1lly/weather-station-iot) | Live IoT sensor dashboard with real-time charts | React, Socket.IO, Recharts, Express |
 | [Health Assistant](https://github.com/billywithaw1lly/healthAssistant) | AI-powered health assistant with multi-agent pipeline | Python, AutoGen, Ollama, Mistral |
 | [SIH 2025 — Gun Detection](https://github.com/billywithaw1lly/SIH2025) | Real-time firearm detection in video using YOLOv8 | Python, YOLOv8, OpenCV |
-| [project-backend](https://github.com/billywithaw1lly/project-backend) | Production-grade REST API backend boilerplate | Node.js, Express 5, MongoDB, Cloudinary |
+| [social-api](https://github.com/billywithaw1lly/social-api) | Production-grade REST API backend boilerplate | Node.js, Express 5, MongoDB, Cloudinary |
 
 ---
 
