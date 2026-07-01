@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/billywithaw1lly">Codeforces</a> •
+  <a href="https://codeforces.com/profile/billywithaw1lly">Codeforces</a>
 </p>
