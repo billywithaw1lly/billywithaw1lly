@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Priyanshu Pratik 👋</h1>
+<h1 align="center">Hello There 👋</h1>
 
 <p align="center">
   Full-stack developer • Competitive Programmer 
